@@ -1,0 +1,21 @@
+.selected {
+    border: 3px solid black;
+    border-radius: 50%;
+}
+
+.imgspan {
+    float: left;
+    padding: 10px;
+}
+#header p {
+    float: left;
+    padding: 10px;
+}
+
+.checkSpan {
+    padding: 10px;
+    float: left;
+}
+img {
+    cursor: pointer;
+}
